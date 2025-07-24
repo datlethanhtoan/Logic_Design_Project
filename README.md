@@ -13,3 +13,5 @@ Main parts:
 - Using arduino platform to progarm for ESP32.
 - Build Websever to storge and manage datas using SQL database.
 
+# Result 
+<img width="887" height="655" alt="image" src="https://github.com/user-attachments/assets/0b7d605f-49c7-4117-b3d8-bf0c58eaef06" />

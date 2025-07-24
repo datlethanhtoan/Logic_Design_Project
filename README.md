@@ -15,4 +15,5 @@ Main parts:
 
 # Result 
 <img width="887" height="655" alt="image" src="https://github.com/user-attachments/assets/0b7d605f-49c7-4117-b3d8-bf0c58eaef06" />
-TEST RUN RESULTS: [Video demo](https://drive.google.com/file/d/1CJ6osLuNaijnN_7fdoA4Lq_XeTfft5JJ/view)
+
+<a href="https://drive.google.com/file/d/1CJ6osLuNaijnN_7fdoA4Lq_XeTfft5JJ/view" target="_blank">Video demo</a>
